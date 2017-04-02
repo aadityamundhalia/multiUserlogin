@@ -16,15 +16,15 @@ Laravel
 DB mysql: homestead
 
 Commands
-php artisan migrate
+php artisan migrate | 
 php artisan db:seed
 
 admin login,
-user: admin@example.com
+user: admin@example.com | 
 pass: admin
 
 guest login
-user: guest@example.com
+user: guest@example.com | 
 pass: guest
 
 
